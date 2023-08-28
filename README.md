@@ -49,7 +49,7 @@
     <img src="https://vectorwiki.com/images/8K9Gg__qlik.svg" alt="qlikview" width="40" height="40"/>
   </a>
   <a href="https://www.qlik.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/qlik-2.svg" alt="qliksense" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/QlikTech_20xx_logo.svg" alt="qliksense" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
