@@ -63,8 +63,5 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.etl.com/" target="_blank" rel="noreferrer">
-    <img src="https://previews.123rf.com/images/chrupka/chrupka2107/chrupka210700131/172214225-etl-extract-transform-and-load-concept-of-process-of-copying-data-vector-illustration.jpg)https://previews.123rf.com/images/chrupka/chrupka2107/chrupka210700131/172214225-etl-extract-transform-and-load-concept-of-process-of-copying-data-vector-illustration.jpg" alt="rstudio" width="40" height="40"/>
-  </a>
 </p>
 
