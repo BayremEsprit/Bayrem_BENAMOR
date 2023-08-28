@@ -45,8 +45,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.qlik.com/" target="_blank" rel="noreferrer">
-    <img src="[https://cdn.worldvectorlogo.com/logos/qlik-2.svg](images.jfif)" alt="qlikview" width="40" height="40"/>
+  <a href="[https://www.qlik.com/us/products/qlik-sense]" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/qlik-2.svg" alt="qlikview" width="40" height="40"/>
   </a>
   <a href="https://www.qlik.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/qlik-2.svg" alt="qliksense" width="40" height="40"/>
