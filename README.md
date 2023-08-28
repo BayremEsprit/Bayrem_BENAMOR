@@ -11,7 +11,7 @@
 
 - 👨‍💻 My projects are available at [https://github.com/BayremEsprit](https://github.com/BayremEsprit)
 
-- 💬 This is my new Github, The other one got suspended
+- 💬 This is my new Github
 
 - 📫 How to reach me **bayrembamor2@gmail.com** / **https://www.linkedin.com/in/bbamor/**
 
